@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore generated reports
+report_output/
+balance_sync_report/*.csv
+balance_sync_report/*.xlsx
+balance_sync_report/*.html
